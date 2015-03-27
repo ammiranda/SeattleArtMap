@@ -7,7 +7,7 @@ An interactive map that shows the user where to find public art in Seattle.  Use
 
 ###Demo
 
-See the current live site [here](http://amiranda222.github.io/SeattleArtMap/).
+See the current live site [here](http://ammiranda.github.io/SeattleArtMap/).
 
 ###Contact
 
