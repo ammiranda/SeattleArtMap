@@ -9,6 +9,6 @@ An interactive map that shows the user where to find public art in Seattle.  Use
 
 See the current live site [here](http://ammiranda.github.io/SeattleArtMap/).
 
-### Contact
+### Bugs/Issues
 
-Have a complaint?  Want to give praise?  Email [Alex](mailto:alexandermichaelmiranda@gmail.com)
+Please feel free to open an [issue](https://github.com/ammiranda/SeattleArtMap/issues)
